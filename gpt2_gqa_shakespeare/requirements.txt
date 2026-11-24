@@ -1,0 +1,5 @@
+torch>=2.2.0
+numpy>=1.24.0
+gradio>=5.0.0
+psutil>=5.9.0
+matplotlib>=3.7.0

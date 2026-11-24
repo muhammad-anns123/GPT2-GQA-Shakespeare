@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+.venv/
+data/tinyshakespeare.txt
+data/train.txt
+data/val.txt
+data/*_ids.npy
+data/tokenizer.json
+checkpoints/*.pt
